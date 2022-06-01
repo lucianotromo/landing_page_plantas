@@ -2,7 +2,7 @@ header{
     height: 10em;
     padding: 5em;
     font-size: 2em;
-    background-image: url(../imgs/foto_header.jpg);
+    background-image: url(assets/imgs/foto_header.jpg);
     background-size: cover;
     background-position: center;
 }
