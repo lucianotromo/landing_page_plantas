@@ -1,0 +1,35 @@
+header{
+    height: 10em;
+    padding: 5em;
+    font-size: 2em;
+    background-image: url(../imgs/foto_header.jpg);
+    background-size: cover;
+    background-position: center;
+}
+header h1{
+    margin: 0px;
+    font-weight: 400;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.products{
+    width: 80%;
+    margin: auto;
+}
+.products td{
+    width: 50%;
+    padding: 2em;
+}
+.products img{
+    width: 50%;
+    border: solid 5px #ddd;
+}
+footer{
+    height: 3em;
+    background-color: rgb(66, 209, 209);
+    line-height: 3em;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: 900;
+}
